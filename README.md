@@ -41,3 +41,13 @@
 ```bash
 docker-compose -f docker-compose.yml up -d
 ```
+
+## pipeline for build and publish the image automatically
+
+### pipeline job 
+![image](https://user-images.githubusercontent.com/58703269/216688124-a4f51f9b-8a96-4861-b0d5-17bfeee1c4b6.png)
+
+![image](https://user-images.githubusercontent.com/58703269/216688478-38fc3a50-8459-4121-84cb-1be4f6fb9029.png)
+
+![image](https://user-images.githubusercontent.com/58703269/216688559-3209c99c-8ed6-4a98-a65b-f8a42a3e2ec6.png)
+

@@ -1,4 +1,7 @@
 # CI-CD Project
+- compile a code from GitHub , Analyse the test cases present in the GitHub repository through building a Jenkins Pipeline.
+- pull a Docker Image 
+- build a Docker image and then set up Jenkins to build and publish the image automatically, whenever you commit changes to your code repository.
 ## compile and build
 ### free style job jenkins to compile
 ![Screenshot from 2023-02-03 18-18-12](https://user-images.githubusercontent.com/58703269/216654455-ece9dcf3-4e44-4246-a139-02b5b54f6383.png)

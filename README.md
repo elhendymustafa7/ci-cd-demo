@@ -35,3 +35,9 @@
 ![image](https://user-images.githubusercontent.com/58703269/216663585-43385bbd-632d-4711-b324-73fe7034b3be.png)
 
 ![image](https://user-images.githubusercontent.com/58703269/216664674-12385408-9c0e-4e47-8bbb-788589d1c91f.png)
+
+## build docker-compose
+![image](https://user-images.githubusercontent.com/58703269/216678034-958749cd-9e1e-4ce9-8409-170ea57c6487.png)
+```bash
+docker-compose -f docker-compose.yml up -d
+```
